@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\geniy\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,23): error C2065: M_PI: необъявленный идентификатор
+C:\Users\geniy\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(17,29): error C2065: M_PI: необъявленный идентификатор
+C:\Users\geniy\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(34,38): error C2065: M_PI: необъявленный идентификатор
