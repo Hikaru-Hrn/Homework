@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\geniy\\source\\repos\\ConsoleApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\geniy\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D83AF26E-CDBF-4EDF-8801-C241AFBE8432}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\geniy\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D83AF26E-CDBF-4EDF-8801-C241AFBE8432}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\geniy\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\geniy\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeToolTip": "..\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Title": "ConsoleApplication2.cpp",
+              "DocumentMoniker": "C:\\Users\\geniy\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "C:\\Users\\geniy\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-29T08:49:05.825Z",
+              "WhenOpened": "2025-02-08T09:42:13.166Z",
               "EditorCaption": ""
             }
           ]
